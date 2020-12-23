@@ -111,3 +111,4 @@ Ket: Aktiv 24 jam
 * [`Youtube Admin`](https://youtube.com/channel/UCp4v6T4jk2ikyc9OTAnAeJA)
 * [`Instagram Admin`](https://instagram.com/andhikavanz)
 * [`WhatsApp Admin `](https://wa.me/+6285712629044)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
