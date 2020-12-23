@@ -111,12 +111,3 @@ Ket: Aktiv 24 jam
 * [`Youtube Admin`](https://youtube.com/channel/UCp4v6T4jk2ikyc9OTAnAeJA)
 * [`Instagram Admin`](https://instagram.com/andhikavanz)
 * [`WhatsApp Admin `](https://wa.me/+6285712629044)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
-
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
-
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-* [`Alfbot`](https://github.com/alfiansx/alfbot)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-
