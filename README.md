@@ -29,7 +29,7 @@
 </details>
 
 ### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... GAUSAH RESEH!!!
 
 ## NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
@@ -103,7 +103,7 @@ Script ini di modifikasi sama saya sendiri Andhika MP.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/andhikamp)
+* [`Donasi 👾A062BOT👾`](https://saweria.co/andhikamp)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
