@@ -20,6 +20,7 @@
 <a href="https://github.com/A062ID/A062BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A062ID/A062BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A062ID/A062BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A062ID/A062BOT?color=red&style=flat-square"></a>
 <a href="https://github.com/A062ID/A062BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A062ID/A062BOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FA062ID%2FA062BOT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
