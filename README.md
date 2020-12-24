@@ -10,7 +10,7 @@
 <a href="#"><img title="👾A062BOT👾" src="https://img.shields.io/badge/A062BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/A062ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AndhikaMP-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/A062ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AndhikaMP-cyan.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/A062ID/A062BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A062ID/A062BOT/badge/main"></a>
