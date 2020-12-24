@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Andhika MP
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi..Saya Andhika
 <p align="center">
 <img src="https://raw.githubusercontent.com/A062ID/A062BOT/main/temp/A187.jpg" width="230" height="230"/>
 </p>
