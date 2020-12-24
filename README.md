@@ -38,31 +38,30 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Siapin alat dan bahannya.
 ```bash
-> niat
+> niat dan keyakinan
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
 > jaringan internet kenceng,kuota+
 > penyimpanan yang memadai
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
-> kalo lu belum punya apk termux, download di playstore
+> download termux di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/A187ID/AR15BOT
-> cd AR15BOT
+> git clone https://github.com/A062ID/A062BOT
+> cd A062BOT
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| AR15BOT      |                   Feature        |
+| A062BOT      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
